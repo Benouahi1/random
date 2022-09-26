@@ -1,0 +1,61 @@
+h1 {
+    text-align: center;
+  }
+  
+  .names {
+    margin: 1%;
+    width: 48%;
+    border: 2px solid #0d6efd;
+    border-radius: 8px ;
+    margin-top: 2%; 
+    font-size: 22px ;
+    color: #1c53a7;
+    text-align: center;
+  }
+  
+  .name {
+    
+    text-align: center;
+  }
+  
+  .winner-button {
+    border: 3px solid limegreen;
+    background-color: white;
+    border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    text-align: center;
+    margin: auto;
+  }
+
+
+  .list{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .sujets{
+    text-align: center;
+    width: 48%;
+    margin: 1%;
+    margin-top: 2%;
+    border: 2px solid #0d6efd;
+    border-radius: 8px ;
+    font-size: 22px ;
+    color: #1c53a7;
+   
+}
+
+table{
+    width: 80%;
+    margin-left: 10%;
+    border: 1px solid #0d6efd;
+    text-align: center;
+    margin-top: 3%;
+}
+td, th {
+    border: 1px solid #0d6efd;
+    margin-top: 1%;
+}

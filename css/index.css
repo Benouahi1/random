@@ -1,0 +1,106 @@
+*{
+    font-family: cursive;
+}
+
+.button{
+    width: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #0d6efd;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.button3{
+    width: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #0d6efd;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.button1{
+    width: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #0d6efd;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    display: none;
+}
+.button4{
+    width: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #0d6efd;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    display: none;
+}
+
+.Nom{
+    text-align: center;
+    color: #1c53a7;
+    font-size: 30px;
+    list-style: none;
+}
+.Sujet{
+    text-align: center;
+    color: #1c53a7;
+    font-size: 30px;
+    list-style: none;
+}
+
+header{
+
+    height: 70px;
+}
+
+.logo{
+    width: 5%;
+}
+.paragraph{
+    margin-top: 1%;
+    font-size: 22px ;
+    font-family: cursive;
+    color: white;
+    width: 100%;
+
+}
+
+
+.button6{
+    width: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #0d6efd;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    
+}
+
+#Sujet{
+    display: none;
+}
+
+.ListS{
+    display: none;
+}
+
+.Erour{
+    width: 48%;
+    height: 94px;
+    text-align: center;
+    padding: 2%;
+    margin: 13px;
+    margin-left: 24%;
+    color: #890000;
+    background-color: rgb(235 140 140);
+    font-size: 23px;
+    display: none;
+}
