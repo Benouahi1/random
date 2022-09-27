@@ -13,8 +13,6 @@ Enfin, la loterie a été faite pour choisir le nom et sujet de veille et date
 
 # Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 
 * ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,3 +23,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 API Nous apporte les vacances en vigueur au Maroc
 
 'https://date.nager.at/api/v3/publicholidays/2022/MA'
+
+# Contributing
+
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
